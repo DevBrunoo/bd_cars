@@ -1,0 +1,14 @@
+/* Para ver toda a tabela
+--------------------------- */
+SELECT * FROM cars; 
+
+/* Para ver apenas um coluna, coloque o nome da coluna entre SELECT ___ FROM
+------------------------------------------------------------------------------- */
+SELECT brand FROM cars; 
+
+/* Para ver mais de uma coluna adicione uma virgula e coloque o nome dela em seguida
+------------------------------------------------------------------------------------- */
+SELECT brand, model FROM cars; 
+/* ou */
+SELECT brand, price, model, year, state FROM cars; 
+
