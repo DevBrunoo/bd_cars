@@ -1,5 +1,5 @@
 /* Para ver toda a tabela
---------------------------- */
+---------------------------- */
 SELECT * FROM cars; 
 
 /* Para ver apenas um coluna, coloque o nome da coluna entre SELECT ___ FROM
